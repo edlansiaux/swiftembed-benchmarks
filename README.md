@@ -111,7 +111,7 @@ Based on the research paper, typical SwiftEmbed performance metrics are:
 
 ## 📚 References
 
-- [Research Paper] SwiftEmbed: Ultra-Fast Text Embeddings via Static Token Lookup for Real-Time Applications
+- [Research Paper](https://www.researchgate.net/publication/396270213_SwiftEmbed_Ultra-Fast_Text_Embeddings_via_Static_Token_Lookup_for_Real-Time_Applications) SwiftEmbed: Ultra-Fast Text Embeddings via Static Token Lookup for Real-Time Applications
 - [Main Repository](https://github.com/edlansiaux/swiftembed-benchmarks) SwiftEmbed (proprietary)
 - [Benchmarking Tool] wrk - HTTP benchmarking tool
 
