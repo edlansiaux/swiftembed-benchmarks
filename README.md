@@ -50,7 +50,7 @@ Comprehensive performance evaluation. Measures:
 ### Prerequisites
 - [wrk](https://github.com/wg/wrk) (version 4.1.0 or higher)
 - SwiftEmbed server running
-- Lua JSON library (if needed)
+- [Lua JSON library](https://github.com/tiye/json-lua) (if needed)
 
 ### Installing wrk
 ```bash
@@ -113,7 +113,7 @@ Based on the research paper, typical SwiftEmbed performance metrics are:
 
 - [Research Paper](https://www.researchgate.net/publication/396270213_SwiftEmbed_Ultra-Fast_Text_Embeddings_via_Static_Token_Lookup_for_Real-Time_Applications) SwiftEmbed: Ultra-Fast Text Embeddings via Static Token Lookup for Real-Time Applications
 - [Main Repository](https://github.com/edlansiaux/swiftembed-benchmarks) SwiftEmbed (proprietary)
-- [Benchmarking Tool] wrk - HTTP benchmarking tool
+- [Benchmarking Tool](https://github.com/wg/wrk) wrk - HTTP benchmarking tool
 
 ## 🤝 Contribution
 
